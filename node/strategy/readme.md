@@ -1,6 +1,6 @@
 ## Strategy design pattern
 
-![alt text][https://ibb.co/YWz5cg6]
+![alt text](strategy_pattern.png?raw=true)
 
 ### When to use
 1. When you want to define a class that will have one behavior that is similar to other behaviors in a list
