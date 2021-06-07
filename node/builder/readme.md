@@ -3,6 +3,7 @@
 ![alt text](builder.png?raw=true)
 
 ### What is the builder pattern
+
 1. Used to create objects made from a bunch of other objects.
 1. When you want to build an object made up from other objects.
 1. When you want the creation of these parts to be independant of the main object.
